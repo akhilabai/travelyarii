@@ -1,0 +1,80 @@
+
+a{
+           
+    padding: 5px;
+    color: black;
+    border-radius: 10px;
+}
+.social_icons{
+    text-shadow: 0 0 10px black;
+}
+a:hover{
+    color:white;
+    background: linear-gradient(20deg,pink,black,pink);
+    border-radius: 50%;
+    box-shadow: 20px 20px 30px black;
+}
+.section-1{
+    border-radius: 50px;
+    box-shadow: 0 0 10px grey;
+    background:linear-gradient(45deg,rgb(154, 210, 235),rgb(230, 108, 108),rgb(156, 156, 245));
+    height: 150px;
+   
+}
+nav{
+    border-radius: 30px;
+    box-shadow: 0 0 20px palevioletred;
+    background: linear-gradient(45deg,rgb(227, 215, 147),rgb(179, 228, 225));
+    position: sticky;
+    
+}
+.section-2{
+    border-radius: 30px;
+    box-shadow: 0 0 10px grey;
+    background: rgb(176, 212, 212);
+}
+.section-5{
+    border-radius: 30px;
+    box-shadow: 0 0 5px grey;
+    
+}
+.card-1{
+    border-radius: 10px;
+    box-shadow: 0 0 10px grey;
+}
+.card-2{
+    
+    box-shadow: 0 0 10px black;
+}
+display-3{
+    color: black;
+}
+
+footer{
+    border-radius: 40px;
+    box-shadow: 0 0 10px gray;
+    background: rgba(128, 128, 128, 0.347);
+    height: 70px;
+}
+.akhila{
+    margin-left: 500px;
+    margin-top: 30px;
+    color:gray ;
+}
+.gallary{
+    opacity: 0.8;
+}
+.gallary:hover{
+    opacity: 1;
+}
+.gallary-banner{
+    transform: translateX(0px);
+}
+.gallary-banner:hover{
+    transform: translateX(-5px);            
+}
+.search{
+    background: rgb(232, 170, 170);
+    height: 60px;
+    border-radius: 50%;
+}
